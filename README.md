@@ -1,5 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded-&color=0:c2e59c,100:64b3f4&text=Hello%20Everyone!&fontColor=271b67&height=100&section=header"/>
+</p>
 
+<h1 align="center">
 <!--
 **shuamamine/shuamamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
