@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded-&color=0:c2e59c,100:64b3f4&text=Hello%20Everyone!&fontColor=271b67&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-
+<p align="center">
+      <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
+</p>
 <h2> &nbsp;Tools I Have Used/Learnt</h2>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
