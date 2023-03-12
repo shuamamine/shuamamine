@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuamamine&show_icons=true&locale=en" alt="shuamamine" /><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuamamine&show_icons=true&locale=en&layout=compact" align="center" alt="shuamamine" /></p></p>
 <!--
 **shuamamine/shuamamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
