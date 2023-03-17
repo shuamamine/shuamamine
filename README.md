@@ -5,6 +5,9 @@
 <p align="center">
       <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
 </p>
+  <h2> &nbsp;Platforms</h2>
+<p align="left"> 
+  </p>
 <h2> &nbsp;Tools I Have Used/Learnt</h2>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
