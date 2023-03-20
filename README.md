@@ -7,7 +7,8 @@
 </p>
   <h2> &nbsp;Platforms</h2>
 <p align="left"> 
-width="48"/>
+<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/OS-Linux-icon.png" width="48" height="48">
+
   </p>
 <h2> &nbsp;Tools I Have Used/Learnt</h2>
 <p align="left"> 
