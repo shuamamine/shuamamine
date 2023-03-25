@@ -18,7 +18,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </p>
  <h2> &nbsp;Currently Learning</h2>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="adobe photoshop" width="50" height="50" />
   </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuamamine&show_icons=true&locale=en" alt="shuamamine" /><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuamamine&show_icons=true&locale=en&layout=compact" align="center" alt="shuamamine" /></p></p>
 <!--
