@@ -6,6 +6,7 @@
 <p align="center">
       <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
 </p>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=shuamamine" alt="visitor badge"/>
 <h2> &nbsp;Platforms</h2>
 <p align="left"> 
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/OS-Linux-icon.png" width="48" height="48">
