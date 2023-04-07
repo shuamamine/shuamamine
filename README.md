@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded-&color=0:c2e59c,100:64b3f4&text=Hello%20Everyone!&fontColor=271b67&height=100&section=header"/>
 </p>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=2CF7B1&center=true&vCenter=true&width=435&lines=I+am+Senjuti+Saha;I+am+a+CS+undergrad;I+like+tech+%2C+games+and+anime" alt="Typing SVG" /></a></p>
 <p align="center">
       <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
 </p>
-  <h2> &nbsp;Platforms</h2>
+<h2> &nbsp;Platforms</h2>
 <p align="left"> 
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/OS-Linux-icon.png" width="48" height="48">
 <img src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/48/Folders-OS-Windows-8-Metro-icon.png" width="48" height="48">
