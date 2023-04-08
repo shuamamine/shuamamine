@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="html" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuamamine&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" alt="shuamamine" /></p></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=shuamamine&theme=tokyonight&border_radius=5" align="center" alt="shuamamine"></p>
