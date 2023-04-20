@@ -6,7 +6,7 @@
 <p align="center">
       <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
 </p>
- <img src="https://visitor-badge.glitch.me/badge?page_id=shuamamine" alt="visitor badge"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=shuamamine.shuamamine" alt="visitor badge"/>
 <h2> &nbsp;Platforms</h2>
 <p align="left"> 
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/OS-Linux-icon.png" width="48" height="48">
@@ -29,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuamamine&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" alt="shuamamine" /></p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuamamine.shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuamamine.shuamamine&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" alt="shuamamine" /></p></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=shuamamine&theme=tokyonight&border_radius=5" align="center" alt="shuamamine"></p>
 <!--
 **shuamamine/shuamamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
