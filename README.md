@@ -9,8 +9,8 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=shuamamine.shuamamine" alt="visitor badge"/>
 <h2> &nbsp;Platforms</h2>
 <p align="left"> 
-<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/OS-Linux-icon.png" width="48" height="48">
-<img src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/48/Folders-OS-Windows-8-Metro-icon.png" width="48" height="48">
+<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/OS-Linux-icon.png" width="50" height="50">
+<img src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/48/Folders-OS-Windows-8-Metro-icon.png" width="50" height="50">
 </p>
 <h2> &nbsp;Tools I Have Used/Learnt</h2>
 <p align="left"> 
