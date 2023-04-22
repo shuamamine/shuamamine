@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded-&color=0:c2e59c,100:64b3f4&text=Hello%20Everyone!&fontColor=271b67&height=100&section=header"/>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=2CF7B1&center=true&vCenter=true&width=435&lines=I+am+Senjuti+Saha;I+am+a+CS+undergrad;I+like+tech+%2C+games+and+anime" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=2CF7B1&center=true&vCenter=true&width=435&lines=I+am+Senjuti+Saha;I+am+a+CSE+undergrad;I+like+tech+%2C+games+and+anime" alt="Typing SVG" /></a></p>
 <p align="center">
       <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
 </p>
