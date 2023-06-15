@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" /> 
+ <img src="https://github.com/shuamamine/shuamamine/assets/113691557/ac294e8e-02e9-489c-b7f6-e8f47d48619e" alt="aws" width="50" height="50" />
+
  </p>
  <h2> &nbsp;Currently Learning</h2>
  <p align="left"> 
