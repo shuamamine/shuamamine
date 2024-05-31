@@ -36,7 +36,7 @@
  <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
   </p>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /></p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shuamamine&show_icons=true&theme=tokyonight" align="center" alt="shuamamine" /></p>
