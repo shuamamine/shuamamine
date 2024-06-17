@@ -40,7 +40,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />          
   </p>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /></p>
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shuamamine&show_icons=true&theme=tokyonight" align="center" alt="shuamamine" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuamamine&hide_progress=true&theme=tokyonight"align="center" alt="shuamamine" ></p>
 <p><img align="right" src="https://streak-stats.demolab.com?user=shuamamine&count_private=true&theme=tokyonight-duo&border_radius=5" align="center" alt="shuamamine" /></p>
 <!--
 **shuamamine/shuamamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
