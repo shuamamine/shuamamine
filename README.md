@@ -6,7 +6,7 @@
 <p align="center">
       <img src="https://media.tenor.com/gWrScqSRus8AAAAC/twilight-spyxfamily-glasses.gif"/>
 </p>
-<p align="center"> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuamamine&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Followers,Repositories,Commit" alt="shuamamine" /></a> </div></p>
+<p align="center"> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuamamine&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Followers,Experience,Commits,Repositories" alt="shuamamine" /></a> </div></p>
 
  <img src="https://visitor-badge.laobi.icu/badge?page_id=shuamamine.shuamamine" alt="visitor badge"/>
 <h2> &nbsp;Platforms</h2>
