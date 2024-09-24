@@ -30,6 +30,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logoColor=white">
+  
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
@@ -59,6 +60,8 @@
    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
+
   </p>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuamamine&hide_progress=true&theme=tokyonight"align="center" alt="shuamamine" ></p>
