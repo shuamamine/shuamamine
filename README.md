@@ -30,7 +30,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/shell-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=black">
 
   
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" /> -->
