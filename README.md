@@ -16,21 +16,21 @@
 </p>
 <h2> &nbsp;Tools I Have Used/Learnt</h2>
 <p align="left"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/java-EA2D2E?style=for-the-badge&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/shell-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=flat&logo=tailwind%20css&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/c-00599C?style=flat&logo=c">
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-EA2D2E?style=flat&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnu%20bash&logoColor=black">
 
   
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" /> -->
@@ -58,11 +58,11 @@
  <p align="left"> 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> -->
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />           -->
-   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-   <img alt="Static Badge" src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white">
-   <img alt="Static Badge" src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white">
-   <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=flate&logo=mongoDB&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/express.js-black?style=flat&logo=express&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chart.js&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white">
 
   </p>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /></p>
