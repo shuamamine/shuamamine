@@ -57,6 +57,23 @@
     <td> October 2024 - Present </td>
   </tr>
 </table>
+
+## Profile Statistics 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" />
+    </td>
+    <td rowspan="2">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuamamine&langs_count=9&theme=tokyonight" alt="shuamamine" >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=shuamamine&count_private=true&theme=tokyonight-duo&border_radius=5"  alt="shuamamine" />
+    </td>
+  </tr>
+</table>
 <!-- <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuamamine&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="shuamamine" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuamamine&hide_progress=true&theme=tokyonight"align="center" alt="shuamamine" ></p>
 <p><img align="right" src="https://streak-stats.demolab.com?user=shuamamine&count_private=true&theme=tokyonight-duo&border_radius=5" align="center" alt="shuamamine" /></p> -->
