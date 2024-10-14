@@ -11,8 +11,7 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=shuamamine.shuamamine" alt="visitor badge"/>
  
 ## Socials
-<img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F_senjutii%2F">
-<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsenjuti-saha-b5b32928a%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F_senjutii%2F"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsenjuti-saha-b5b32928a%2F">
 
 ## Platforms
 <p align="left"> 
