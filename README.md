@@ -9,7 +9,10 @@
 <!-- <p align="center"> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuamamine&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Followers,Experience,Commits,Repositories,MultiLanguage" alt="shuamamine" /></a> </div></p> -->
 
  <img src="https://visitor-badge.laobi.icu/badge?page_id=shuamamine.shuamamine" alt="visitor badge"/>
- 
+## Socials
+<img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F_senjutii%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsenjuti-saha-b5b32928a%2F">
+
 ## Platforms
 <p align="left"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black%20">
