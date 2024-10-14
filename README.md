@@ -16,7 +16,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/windows-00adef?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCwwLDI1NiwyNTYiPgo8ZyBmaWxsPSIjZmZmZmZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDguNTMzMzMsOC41MzMzMykiPjxwYXRoIGQ9Ik0xMiwxNmgtOXY3Ljc1bDksMS4yMzh6TTEyLDVsLTksMS4yNXY3Ljc1aDl6TTE0LDQuNzV2OS4yNWgxM3YtMTF6TTE0LDE2djkuMjVsMTMsMS43NXYtMTF6Ij48L3BhdGg%2BPC9nPjwvZz4KPC9zdmc%2B&logoColor=black%20">
 </p>
 
-## Tools I Have Used/Learnt
+## 💻 Tools I Have Used/Learnt
 <p align="left"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
