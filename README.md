@@ -3,7 +3,8 @@ I am Senjuti Saha, a CSE undergrad who loves to code and making projects aiming 
 I am a Web Developer as well as Tech enthusiast, currently exploring the world of Blockchain.
  
 ## Socials
-<img alt="Static Badge" src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F_senjutii%2F"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsenjuti-saha-b5b32928a%2F">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_senjutii) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/senjuti-saha) 
 
 ## Platforms
 <p align="left"> 
