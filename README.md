@@ -51,7 +51,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
       <td><b> ⏰ Timeline</b></td> 
   </thead>
      <tr>
-    <td> Web Development Intern </td>
+    <td> Full Stack Developer Intern </td>
     <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
     <td> October 2024 - Present </td>
   </tr>
