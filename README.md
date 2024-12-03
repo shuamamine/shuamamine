@@ -8,7 +8,6 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat&logo=leetcode&color=black)](https://leetcode.com/u/shuamamine)
 
 
-
 ## Platforms
 <p align="left"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black%20">
