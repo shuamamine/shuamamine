@@ -72,7 +72,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=shuamamine&count_private=true&theme=tokyonight-duo&border_radius=5"  alt="shuamamine" />
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shuamamine&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
