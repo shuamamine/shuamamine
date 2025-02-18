@@ -45,6 +45,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
  <p align="left"> 
    <img alt="Static Badge" src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chart.js&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   </p>
 
   ## Experience
