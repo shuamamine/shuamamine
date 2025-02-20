@@ -42,11 +42,11 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
  <img alt="Static Badge" src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
  </p>
  
- ## Currently Learning
+<!-- ## Currently Learning
  <p align="left"> 
    <img alt="Static Badge" src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chart.js&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white">
-  </p>
+  </p> -->
 
   ## Experience
   <table>
