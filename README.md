@@ -25,8 +25,10 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/nodemon-76D04B?style=flat&logo=nodemon&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/express.js-black?style=flat&logo=express&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=flate&logo=mongoDB&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/mongoose-880000?style=flat&logo=mongoose&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/ejs-B4CA65?style=flat&logo=ejs&logoColor=black">
    <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
