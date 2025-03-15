@@ -34,6 +34,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
    <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=flat&logo=tailwind%20css&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/material%20ui-007FFF?style=flat&logo=mui%20bash&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
