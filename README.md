@@ -6,6 +6,8 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_senjutii) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/senjuti-saha)
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat&logo=leetcode&color=black)](https://leetcode.com/u/shuamamine)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/shuamamine)
+[![GeeksforGeeks](https://img.shields.io/badge/geeksforgeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shuamamine/)
 
 
 ## Platforms
