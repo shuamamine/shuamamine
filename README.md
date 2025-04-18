@@ -38,6 +38,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
  <img alt="Static Badge" src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=flat&logo=tailwind%20css&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/material%20ui-007FFF?style=flat&logo=mui&logoColor=white"> 
+ <img alt="Static Badge" src="https://img.shields.io/badge/shadcn%20ui-000000?style=flat&logo=shadcnui&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/angular-0F0F11?style=flat&logo=angular&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">
@@ -59,6 +60,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />
 <img alt="Static Badge" src="https://img.shields.io/badge/flask-black?style=flat&logo=flask&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
