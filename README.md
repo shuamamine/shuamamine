@@ -59,6 +59,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />
+ <img alt="Static Badge" src="https://img.shields.io/badge/django-092E20?style=flat&logo=django">
 <img alt="Static Badge" src="https://img.shields.io/badge/flask-black?style=flat&logo=flask&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" />
