@@ -1,6 +1,7 @@
 # ✨ About Me:
-I am Senjuti Saha, a CSE undergrad who loves to code and making projects aiming to solve real world problems.   
-I am a Web Developer as well as Tech enthusiast, currently exploring the world of Blockchain.
+I am Senjuti Saha, a final year CSE undergrad who loves to code and making projects aiming to solve real world problems.   
+I am an aspiring Full Stack Developer with hands-on internship experience and skilled in building responsive and dynamic web applications specializing in MERN stack,
+Next, PHP & Java as well as exploring the world of AI & ML
  
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_senjutii) 
