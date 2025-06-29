@@ -72,6 +72,7 @@ I am a Web Developer as well as Tech enthusiast, currently exploring the world o
  <img alt="Static Badge" src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnu%20bash&logoColor=black"> 
  <img alt="Static Badge" src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=flat&logo=apache%20tomcat&logoColor=black">
  </p>
  
 <!-- ## Currently Learning
