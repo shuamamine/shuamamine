@@ -29,7 +29,7 @@ Next, PHP & Java as well as exploring the world of AI & ML
   <img alt="Static Badge" src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
  <img alt="Static Badge" src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=react%20router&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/nodemon-76D04B?style=flat&logo=nodemon&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/nodemon-76D04B?style=flat&logo=nodemon&logoColor=black">
    <img alt="Static Badge" src="https://img.shields.io/badge/express.js-black?style=flat&logo=express&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=flate&logo=mongoDB&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/mongoose-880000?style=flat&logo=mongoose&logoColor=white">
