@@ -74,6 +74,7 @@ Next, PHP & Java as well as exploring the world of AI & ML
  <img alt="Static Badge" src="https://img.shields.io/badge/shell-4EAA25?style=flat&logo=gnu%20bash&logoColor=black"> 
  <img alt="Static Badge" src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=flat&logo=apache%20tomcat&logoColor=black">
+ <img alt="Static Badge" src="https://img.shields.io/badge/electron-47848F?style=flat&logo=electron&logoColor=white">
  </p>
  
 <!-- ## Currently Learning
