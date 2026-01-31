@@ -93,8 +93,8 @@ Next, PHP & Java as well as exploring the world of AI & ML
   </thead>
      <tr>
     <td> Full Stack Developer Intern </td>
-    <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
-    <td> October 2024 - Present </td>
+    <td> <a href="https://www.iema.co/">IEMA Research & Development Pvt. Ltd. - IEMLabs</a> </td>
+    <td> October 2024 - December 2025 </td>
   </tr>
 </table>
 
