@@ -91,11 +91,16 @@ Next, PHP & Java as well as exploring the world of AI & ML
       <td><b> 🏢 Organization </b></td> 
       <td><b> ⏰ Timeline</b></td> 
   </thead>
+   <tr>
+    <td> SDE Intern </td>
+    <td> <a href="https://www.azympto.com/">Azympto</a> </td>
+    <td> February 2026 - Present </td>
+  </tr>
      <tr>
     <td> Full Stack Developer Intern </td>
     <td> <a href="https://www.iema.co/">IEMA Research & Development Pvt. Ltd. - IEMLabs</a> </td>
     <td> October 2024 - December 2025 </td>
-  </tr>
+  </tr
 </table>
 
 ## Profile Statistics 
